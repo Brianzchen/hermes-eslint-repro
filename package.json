@@ -1,0 +1,17 @@
+{
+  "name": "hermes-eslint-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "flow-bin": "^0.213.1",
+    "hermes-eslint": "^0.15.0"
+  }
+}
